@@ -1,0 +1,33 @@
+[
+    {
+        "id": 6,
+        "name": "Television",
+        "category": "Video",
+        "brand": "Samsung",
+        "price": 8999.99,
+        "stock": 20,
+        "image": "../images/tv.png",
+        "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+      },
+      {
+        "id": 7,
+      "name": "Television",
+      "category": "Video",
+      "brand": "VW",
+      "price": 21999.99,
+      "stock": 20,
+      "image": "../images/tv1.png",
+      "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+    },
+
+      {
+        "id": 8,
+      "name": "Television",
+      "category": "Video",
+      "brand": "VW",
+      "price": 10000.99,
+      "stock": 20,
+      "image": "../images/tv2.png",
+      "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+    }
+]

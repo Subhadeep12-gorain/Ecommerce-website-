@@ -1,0 +1,32 @@
+[
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "category": "Mobiles",
+        "brand": "TechGadget",
+        "price": 499.99,
+        "stock": 100,
+        "image": "../images/iphone.png",
+        "description": "Feature-rich smartphone with a 6.2-inch screen, 12MP dual camera, 128GB storage, and a 4000mAh battery."
+      },
+      {
+        "id": 11,
+      "name": "Smartphone",
+      "category": "Mobiles",
+      "brand": "Samsung",
+      "price": 800.99,
+      "stock": 20,
+      "image": "../images/phone1.png",
+      "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+    },
+    {
+        "id": 17,
+      "name": "Smartphone",
+      "category": "Mobiles",
+      "brand": "Samsung",
+      "price": 999.99,
+      "stock": 20,
+      "image": "../images/mobiles.png",
+      "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+    }
+]

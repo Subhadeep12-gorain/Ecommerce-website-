@@ -1,0 +1,33 @@
+[
+    {
+        "id": 10,
+      "name": "Watches",
+      "category": "Wearables",
+      "brand": "Samsung",
+      "price": 600.99,
+      "stock": 20,
+      "image": "../images/watch2.png",
+      "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+    },
+    {
+        "id": 9,
+      "name": "Watches",
+      "category": "Wearables",
+      "brand": "firebolt",
+      "price": 759.99,
+      "stock": 20,
+      "image": "../images/watch1.png",
+      "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+    },
+    {
+        "id": 4,
+        "name": "Watches",
+        "category": "Wearables",
+        "brand": "FitTech",
+        "price": 650.99,
+        "stock": 20,
+        "image": "../images/watch.png",
+        "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+      }
+
+]
